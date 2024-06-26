@@ -1,14 +1,12 @@
 # Damodar Vishwakarma
 
-![Header](https://raw.githubusercontent.com/your-username/your-repo/master/header.gif)
+![Header](https://media.giphy.com/media/l3vRn5pk9G7j7O9LO/giphy.gif)
 
 ## Skills & Expertise
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ### Frameworks & Technologies
@@ -47,19 +45,22 @@
 ![Project Management](https://img.shields.io/badge/-Project%20Management-000?&logo=project-management)
 ![Agile Methodology](https://img.shields.io/badge/-Agile%20Methodology-000?&logo=agile)
 
-## About Me
-- 🔭 I’m currently working on Somate 
-- 🌱 I’m currently learning Machine Learning
-- 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with Data Science
-- 💬 Ask me about Python and Django
-- 📫 How to reach me: [vishwakarmadamodar@gmail.com]
-- ⚡ Fun fact: (Coding and Web Development)
+### Hi there 👋
 
-## Projects
-- [Project 1](https://dev.somate.app)
-- [Project 2](https://api.yamahaheathandwellness.com)
-- [Project 3](https://deviare.africa/olp)
+My name is Damodar Vishwakarma, and I am a dedicated backend developer with over 3 years of experience specializing in Python and Django. I have extensive knowledge in a range of technologies including Django REST Framework, FastAPI, AWS, Docker, Kubernetes, and various databases like Postgres, MySQL, and MongoDB.
+
+I have a good understanding in machine learning and data science, working with tools such as NumPy, Pandas, Matplotlib/Seaborn, Scikit-learn, TensorFlow/Keras, and Natural Language Processing. I have developed and deployed several data-driven applications, leveraging these technologies to provide actionable insights and predictive analytics.
+
+My experience also extends to frontend technologies like HTML, CSS, and JavaScript, allowing me to build comprehensive full-stack solutions. Additionally, I am proficient with tools like Celery and Redis, and adhere to test-driven development (TDD) and behavior-driven development (BDD) methodologies to ensure robust and scalable solutions.
+
+I am passionate about contributing to open-source projects and always excited to build something interesting and impactful. My journey in tech is driven by a constant desire to learn and explore new frameworks and technologies.
+
+Feel free to reach out if you want to discuss projects, share ideas, or collaborate on something amazing!
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/damodar-vishwakarma-363b28199/)
+
+## GitHub Stats
+
+![Damodar Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=dark)
+
