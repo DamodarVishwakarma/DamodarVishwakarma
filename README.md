@@ -1,7 +1,5 @@
 # Damodar Vishwakarma
 
-![Header](https://media.giphy.com/media/l3vRn5pk9G7j7O9LO/giphy.gif)
-
 ## Skills & Expertise
 
 ### Programming Languages
@@ -60,7 +58,4 @@ Feel free to reach out if you want to discuss projects, share ideas, or collabor
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/damodar-vishwakarma-363b28199/)
 
-## GitHub Stats
-
-![Damodar Vishwakarma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
